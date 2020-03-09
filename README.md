@@ -12,7 +12,7 @@
 [LISTED:Curseforge] : https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic
 
  # version:
-
+![Validate AVC .version files](https://github.com/zer0Kerbal/ARPIcons/workflows/Validate%20AVC%20.version%20files/badge.svg)
 [![MOD:shortname][MOD:autoversion]][MOD:forum] [![][KSP:version][KSP:website]] [![][KSP-AVC]] ![LICENSE:label][License:url]]
 
 ## Olympic1's ARP Icons: Add icons to popular mods!
