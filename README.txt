@@ -1,4 +1,4 @@
-Olympic1 ARP Icons - v0.10.1
+ARPIcons Alternative Resource Panel Icons by Olympic1 (ARPI) - v0.10.1
 ----------------------------
 Add icons to popular mods!
 
