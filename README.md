@@ -1,7 +1,5 @@
 # Alternative Resource Panel Icons (ARPI)
 ## by Olympic1
-![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic)
-![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)
 ![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic)
 ![CKAN](https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic)
 ![Github](https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic)
