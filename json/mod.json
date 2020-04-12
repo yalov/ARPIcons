@@ -1,6 +1,8 @@
 {
-  "schemaVersion": 1,
-  "label": "ARPIcons by Olympic1",
-  "message": "0.10.1.0",
-  "color": "orange"
+  "schemaVersion": "1",
+  "label": "ARPIcons",
+  "labelColor": "darkgreen",
+  "message": "1.0.0.0",
+  "color": "orange",
+  "style": "plastic"
 }

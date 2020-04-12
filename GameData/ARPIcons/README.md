@@ -1,173 +1,255 @@
-# Alternative Resource Panel Icons (ARPI)
-## by Olympic1
-![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic)
-![CKAN](https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic)
-![Github](https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic)
-![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)
-[![][shield:ver-mod]][mod:ver]
+<!-- Readme.md v1.1.4.0
+ARPIcons (ARPI)
+created: 01 Oct 19
+updated: 2020 04 10 -->
 
-[LISTED:Spacedock] : https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic
-[LISTED:CKAN]       : https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
-[LISTED:Github]     : https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic
-[LISTED:Curseforge] : https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic
+## Download on [SpaceDock][MOD:spacedock] or [Github][MOD:github] or [Curseforge][MOD:curseforge]. Also available on [CKAN][thread:ckan].  
+***  
+## ARPIcons (ARPI)
+## ***A***lternative ***R***esource ***P***anel ***I***cons by Olympic1
+### Add icons to popular mods! For Kerbal Space Program (KSP)
+#### Adopted by [@zer0Kerbal][LINK:zer0kerbal], originally by [@Olympic1][LINK:olympic1]  
+![Mod Version][shield:mod:latest] 
+![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:license]  
+  
+![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
+  
+![Validate AVC .version files][shield:avcvalid]  
+***
+![ARPIcons][IMG:hero:0]
 
- # version:
-![Validate AVC .version files](https://github.com/zer0Kerbal/ARPIcons/workflows/Validate%20AVC%20.version%20files/badge.svg)
-[![MOD:shortname][MOD:autoversion]][MOD:forum] [![][KSP:version][KSP:website]] [![][KSP-AVC]] ![LICENSE:label][License:url]]
+### FAQ by [@Olympic1][LINK:olympic1]:
+- What does this mod do?
+  - It adds new icons to the [Alternate Resource Panel][thread:arp] that aren't included in the main download.
+- Can I add new icons for this mod?
+  - **Yes!** New icons for mods that add resources are always appreciated.  
+  - **Yes!** New compatability patches for mods are always appreciated.  
+### Maintainers:  
+- [zer0Kerbal][LINK:zer0Kerbal]  
+### Authors:  
+- [Olympic1][LINK:olympic1]  
+- [TriggerAu][LINK:triggerau]  
 
-## Olympic1's ARP Icons: Add icons to popular mods!
-[![][shield:support-ksp]][KSP:website]
-[![][shield:support-ckan]][thread:ckan]
-[![][shield:license-cc]][ICONS:license]
-
-[![][ICONS:logo]][ICONS:thread]
-
-### Maintainers
-The current maintainers include:
-  * [Olympic1](http://forum.kerbalspaceprogram.com/index.php?/profile/79730-olympic1/)
-
-### Authors
-The current authors include:
-  * [TriggerAu](http://forum.kerbalspaceprogram.com/index.php?/profile/57838-triggerau/)
-  * [Olympic1](http://forum.kerbalspaceprogram.com/index.php?/profile/79730-olympic1/)
-
-### Licenses
-For licensing information, please see the [included LICENSE.txt][ICONS:license] file.
-
-### FAQ
-  * What does this mod do?
-    * It adds new icons to the [Alternate Resource Panel][thread:arp] that aren't included in the main download.
-  * Can I add new icons for this mod?
-    * **Yes!** New icons for mods that add resources are always appreciated.
-
-### Installation
-  1. Download the latest [Alternate Resource Panel][thread:arp] from the thread.
-  2. Download the latest [icons pack][ICONS:rel-github] from the releases section of this GitHub repo.
-  3. Extract both .zip files in your KSP installation's `GameData` folder.
-
-**Layout:**
-  * GameData
-    * TriggerTech\
-    * ARPIcons\
-
+Additional Changes incorporated from [Kerbas-ad-astra][LINK:kerbas-ad-astra]
+### Installation Directions:  
+- Use CKAN  
+![][image:ckan]
+### Changelog Summary
+- *See [ChangeLog][MOD:changelog] for full details of mod changes*
+### Known Issues
+- *See [Known Issues][MOD:issues] for full details of feature requests, and known issues*
 ### Dependencies
-The following mods are needed to use my icons
-  * [x] [![][shield:support-arp]][thread:arp]
-  * [x] [![][shield:support-mm]][thread:mm]
+The following are needed to use these icons  
+- [x]  [Kerbal Space Program (KSP)][KSP:website] [![][shield:ksp]][KSP:website] ***may*** work on other versions ]/YMMV/  
+- [x]  [Alternate Resource Panel by @TriggerAu][thread:arp]  
+- [x]  [Module Manager][thread:mm]  
+### Recomends  
+- [x]  [Kerbal Changelog][thread:kcl]  
+### Suggests  
+**By [zer0Kerbal][LINK:zer0Kerbal]**  
+- [x]  [On Demand Fuel Cells {ODFC)}][thread:ODFC]  
+- [x]  [Field Training Facility (FTF)][thread:FTF]  
+- [x]  [Field Training Lab (FTL)][thread:FTL]  
+- [x]  [Docking Port Descriptions(DPD)][thread:DPD]  
+- [x]  [PicoPort Shielded (PPS)][thread:PPS]  
+- [x]  [Transparent Command Pods Repressurized(TCP)][thread:TCP]  
+- [x]  [Stork Delivery System (SDS)][thread:SDS]  
+- [x]  [Biomatic][thread:BIO]  
+- [x]  [B9 Stock Switches (B9S)][thread:B9S]  
+- [x]  [*K*er*G*uise *E*ngineering e*X*perimental (KGX)][thread:KGX]  
+- [x]  [Oh Scrap!][thread:OHS]  
+- [x]  [ScrapYard][thread:SYD]  
+- [x]  [DaMichel's AeroRadial][thread:DAR]  
+- [x]  [DaMichel's CargoBays][thread:DCB]  
+- [x]  [DaMichel's Fuselage][thread:DMF]  
+- [x]  [DaMichel's Spherical Tanks][thread:DST]  
+- [x]  [Stork Delivery System (SDS)][thread:SDS]  
+- [x]  [SimpleConstructon!][thread:SC!]  
+- [x]  [Not So SimpleConstructon!][thread:NSSC]  
+- [x]  [Stack Inline Lights][thread:SIL]  
+- [x]  [Stack Inline Light Patches][thread:SILP]  
+- [x]  [KaboOom!][thread:BOOM]  
+- [x]  [More Hitchhikers][thread:MHH]  
+**Under construction**  
+- [x]  [SimpleLife!][thread:SLF]  
+- [x]  [SimpleDeadly!][thread:SDR]  
+- [x]  [MoarKerbals!][thread:MK]  
+- [x]  [Nuke Tiny Parts][thread:NUK]  
+**Other wonderful mods**  
+- [x]  [TweakScale][thread:twk]  
+- [x]  [Community Resource Pack][thread:crp]  
+### Supported Mods  
+- [x]  [TweakScale][thread:twk]  
+- [x]  [Kerbal Changelog][thread:kcl]  
 
-### Supported mods
-Install at least one of these mods to see the icons
-  * [x] [![][shield:support-warp]][thread:warp]
-  * [x] [![][shield:support-crp]][thread:crp]
-  * [x] [![][shield:support-di]][thread:di]
-  * [x] [![][shield:support-dr]][thread:dr]
-  * [x] [![][shield:support-epl]][thread:epl]
-  * [x] [![][shield:support-fs]][thread:fs]
-  * [x] [![][shield:support-ics]][thread:ics]
-  * [x] [![][shield:support-kspi]][thread:kspi]
-  * [x] [![][shield:support-mc]][thread:mc]
-  * [x] [![][shield:support-nr]][thread:nr]
-  * [x] [![][shield:support-snacks]][thread:snacks]
-  * [x] [![][shield:support-ls]][thread:ls]
-
-### Mods that integrated my icons
-Mods that integrated my icons
-  * [x] [![][shield:support-bm]][thread:bm]
-  * [x] [![][shield:support-df]][thread:df]
-
-### Downloads
-You can download the icons pack by clicking on one of the links:
-  * [![][image:rel-dropbox]][ICONS:rel-dropbox]
-  * [![][image:rel-github]][ICONS:rel-github]
-  * [![][image:rel-spacedock]][ICONS:rel-spacedock]
-  * [![][image:rel-ckan]][ICONS:rel-ckan]
+**Install at least one of these mods to see the icons**  
+- [x]  [Alcubierre Warp Drive][thread:warp]  
+- [x]  [Community Resource Pack][thread:crp]  
+- [x]  [DangIt!][thread:dng]  
+- [x]  [Deadly Reentry][thread:dre]  
+- [x]  [Extraplanetary Launchpads][thread:epl]  
+- [x]  [Firespitter][thread:fs]  
+- [x]  [Ioncross Crew Support][thread:ics]  
+- [x]  [KSP Interstellar Extended][thread:kspi]  
+- [x]  [Mission Controller 2][thread:mc2]  
+- [x]  [MoarKerbals!][thread:MK]  
+- [x]  [Not So SimpleConstructon!][thread:NSSC]  
+- [x]  ['Project Orion' Nuclear Pulse Engine][thread:npe]  
+- [x]  [SimpleConstructon!][thread:SC!]  
+- [x]  [SimpleLife!][thread:SLF]  
+- [x]  [Snacks][thread:snk]  
+- [x]  [USI Life Support][thread:usl]  
+### Mods that integrate these icons  
+- [x]  [Biomass][thread:bm]  
+- [x]  [Deepfreeze][thread:dfz]  
+### Conflicts  
+- [x] none known  
+### Downloads  
+You can download the icons pack by clicking on one of the links:  
+[![][image:github]][MOD:github] [![][image:spacedock]][MOD:spacedock] [![][image:curseforge]][MOD:curseforge]  
+***  
+*red box below is a link to forum post on how to get support*  
+[![How to get support][image:getsupport]][thread:getsupport]
 
 ### License
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, which means:
-  * You are free to share, copy and redistribute my work "as-is".
-  * You may adapt, remix, transform, and build upon the material.
+#### aka Legal Mumbo Jumbo
+Source: [GitHub][MOD:github:repo]  
+License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:license]    
+> *** All bundled mods are distributed under their own licenses***  
+> *** All art assets (textures, models, animations) are distributed under their own licenses***   
+### Original
+Author: [@Olymplic1][LINK:olympic1]  
+[Thread][MOD:original:thread]  
+[Download][MOD:original:download]  
+Source: [GitHub][MOD:original:source]  
+License: ![License CC BY-NC-SA 4.0][shield:license:original] ![][LOGO:license:original]  
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, which means:  
+- You are free to share, copy and redistribute my work "as-is".
+- You may adapt, remix, transform, and build upon the material.
 
 **Under the following terms:**
-  * You may not use the material for any commercial purposes.
-  * You must use the same license as the original work.
-  * You must credit the following people when publishing your derivatives in the download and forum posts:
-    * TriggerAu (Alternate Resource Panel and icons)
-    * Olympic1 (Icon Packs)
-
+- You may not use the material for any commercial purposes.
+- You must use the same license as the original work.
+- You must credit the following people when publishing your derivatives in the download and forum posts:  
+  - [TriggerAu][LINK:triggerau] (Alternate Resource Panel and icons)  
+  - [Olympic1][LINK:olympic1] (Icon Packs)  
+  - [Kerbas-ad-astra][LINK:kerbas-ad-astra] {Contributor}  
+  - [zer0Kerbal][LINK:zer0Kerbal] {Maintainer}  
 See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
+  
+*Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
+  
+###### v1.0.0.0 original: 01 Oct 2019 zed'K | updated: 11 Apr 2020 zed'K
 
+[License:url]: (https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)
 
+[MOD:license]:      https://github.com/zer0Kerbal/ARPIcons/blob/master/LICENSE
+[MOD:contributing]: https://github.com/zer0Kerbal/ARPIcons/blob/master/.github/CONTRIBUTING.md
+[MOD:wiki]:         https://github.com/zer0Kerbal/ARPIcons/
+[MOD:issues]:       https://github.com/zer0Kerbal/ARPIcons/issues
+[MOD:known]:        https://github.com/zer0Kerbal/ARPIcons/wiki/Known-Issues
+[MOD:forum]:        https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*
+[MOD:github:repo]:  https://github.com/zer0Kerbal/ARPIcons/
+[MOD:changelog]:    https://github.com/zer0Kerbal/ARPIcons/Changelog.cfg
+[KSP:website]:      https://kerbalspaceprogram.com/ "Kerbal Space Program"  
 
-[KSP-AVC]: https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
-[LICENSE:label]: CC BY-NC-SA 4.0
-[License:url]  : (https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)
-[LISTED:Spacedock] : https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic
-[LISTED:CKAN]       : https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
-[LISTED:Github]     : https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic
-[LISTED:Curseforge] : https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic
+<!--- original mod stuff -->
+[MOD:original:source]:     https://github.com/Olympic1/Icon_Packs_KSP  
+[MOD:original:thread]:      http://forum.kerbalspaceprogram.com/index.php?/topic/92866-* "ARPIcons thread"  
+[MOD:original:download]:   https://github.com/Olympic1/Icon_Packs_KSP/releases/latest  
+[shield:license:original]: http://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=plastic"CC BY-NC-SA 4.0"  
+[LOGO:license:original]:  https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"  
 
- # version:
-[MOD:name]     : Alternate Resource Panel Icons (ARPI)
-[MOD:shortname]: ARPIcons (ARPI)
-[MOD:author]   : zer0Kerbal
-[MOD:forum]    :
-[MOS:manualversion]: https://img.shields.io/badge/MOD%20version-0.10.1.0-orange.svg?style=plastic
-[MOD:autoversion]  : https://img.shields.io/github/v/release/zer0Kerbal/ARPIcons?include_prereleases?style=plastic
+[MOD:github]:    https://github.com/zer0Kerbal/ARPIcons/releases/latest "GitHub"  
+[MOD:spacedock]: https://spacedock.info/mod/15 "SpaceDock"  
+[MOD:curseforge]: https://www.curseforge.com/kerbal/ksp-mods/arpicons "CurseForge"  
+[LOGO:license]:      https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"  
 
-[KSP:version]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ARPIcons/master/json/ksp.json?style=plastic
-[KSP:website]: http://kerbalspaceprogram.com/
-[thread:ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/143140-ckan/
-[ICONS:license]: http://github.com/Olympic1/Icon_Packs_KSP/blob/master/LICENSE_Olympic1ARPIcons.txt
+[shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/ARPIcons?include_prereleases?style=plastic
+[shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ARPIcons/master/json/mod.json
+[shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ARPIcons/master/json/ksp.json
+[shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ARPIcons/master/json/license.json
 
-[shield:support-ksp]: http://img.shields.io/badge/KSP-v1.x-green.svg?style=plastic
-[shield:support-ckan]: http://img.shields.io/badge/CKAN-Indexed-brightgreen.svg?style=plastic
-[shield:license-cc]: http://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg?style=plastic
+[image:github]:     https://i.imgur.com/RE4Ppr9.png "github"  
+[image:spacedock]:  https://i.imgur.com/m0a7tn2.png "spacedock"  
+[image:curseforge]: https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png "curseforge"  
+[image:dropbox]:    http:// "dropbox"  
 
-[ICONS:logo]: http://i62.tinypic.com/2qltqad.png
-[ICONS:thread]: http://forum.kerbalspaceprogram.com/index.php?/topic/92866-icons/
+[image:github:sm]:     https://i.postimg.cc/1XXy5yfD/github.png "github (small)"  
+[image:spacedock:sm]:  https://i.postimg.cc/DZ22Hrhj/spacedock.png "spacedock (small)"  
+[image:curseforge:sm]: https://i.postimg.cc/ZRVTSWKT/UVVt0OP.png "curseforge (small)"  
+  
+[shield:kspavc]:     https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
+[shield:spacedock]:  https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic
+[shield:ckan]:       https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
+[shield:github]:     https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic&logo=github
+[shield:curseforge]: https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic
+[shield:avcvalid]:   https://github.com/zer0Kerbal/ARPIcons/workflows/Validate%20AVC%20.version%20files/badge.svg
 
-[thread:arp]: http://forum.kerbalspaceprogram.com/index.php?/topic/54876-*
-[thread:mm]: http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*
-[thread:warp]: http://forum.kerbalspaceprogram.com/index.php?/topic/90899-*
-[thread:crp]: http://forum.kerbalspaceprogram.com/index.php?/topic/83007-*
-[thread:di]: http://forum.kerbalspaceprogram.com/index.php?/topic/73920-*
-[thread:dr]: http://forum.kerbalspaceprogram.com/index.php?/topic/50296-*
-[thread:epl]: http://forum.kerbalspaceprogram.com/index.php?/topic/54284-*
-[thread:fs]: http://forum.kerbalspaceprogram.com/index.php?/topic/22583-*
-[thread:ics]: http://forum.kerbalspaceprogram.com/index.php?/topic/74182-*
-[thread:kspi]: http://forum.kerbalspaceprogram.com/index.php?/topic/100190-*
-[thread:mc]: http://forum.kerbalspaceprogram.com/index.php?/topic/40183-*
-[thread:nr]: http://forum.kerbalspaceprogram.com/index.php?/topic/121597-*
-[thread:snacks]: https://github.com/Angel-125/Snacks
-[thread:ls]: http://forum.kerbalspaceprogram.com/index.php?/topic/105202-*
-[thread:bm]: http://forum.kerbalspaceprogram.com/index.php?/topic/48629-*
-[thread:df]: http://forum.kerbalspaceprogram.com/index.php?/topic/112328-*
+[thread:mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"   
+[thread:bm]: https://forum.kerbalspaceprogram.com/index.php?/topic/48629-* "Biomass"  
+[thread:fs]: https://forum.kerbalspaceprogram.com/index.php?/topic/22583-* "Firespitter"  
+[thread:dng]: https://forum.kerbalspaceprogram.com/index.php?/topic/73920-* "DangIt!"  
+[thread:dfz]: https://forum.kerbalspaceprogram.com/index.php?/topic/112328-* "Deepfreeze Continued"  
+[thread:dre]: https://forum.kerbalspaceprogram.com/index.php?/topic/50296-* "Deadly Reentry"  
+[thread:mc2]: https://forum.kerbalspaceprogram.com/index.php?/topic/40183-* "Mission Controller 2"  
+[thread:kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal Changelog"  
+[thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"  
+[thread:crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack" 
+[thread:epl]: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-* "Extraplanetary Launchpads"  
+[thread:ics]: https://forum.kerbalspaceprogram.com/index.php?/topic/74182-* "Ioncross Crew Support"  
+[thread:npe]: https://forum.kerbalspaceprogram.com/index.php?/topic/121597-* "'Project Orion' Nuclear Pulse Engine"  
+[thread:snk]: https://forum.kerbalspaceprogram.com/index.php?/topic/149604-* "Snacks!"  
+[thread:usl]: https://forum.kerbalspaceprogram.com/index.php?/topic/105202-* "USI Life Support"  
+[thread:warp]: https://forum.kerbalspaceprogram.com/index.php?/topic/90899-* "Alcubierre Warp Drive"  
+[thread:kspi]: https://forum.kerbalspaceprogram.com/index.php?/topic/100190-* "KSP Interstellar Extended"  
 
-[shield:support-arp]: http://img.shields.io/badge/github/v/release/TriggerAu/AlternateResourcePanel?include_prereleases?style=plastic
-[shield:support-mm]: http://img.shields.io/badge/github/v/release/sarbian/ModuleManager?include_prereleases?style=plastic
-[shield:support-warp]: http://img.shields.io/badge/github/v/release/BobPalmer/WarpDrive/releases/latest?include_prereleases?style=plastic
-[shield:support-crp]: http://img.shields.io/badge/github/v/release/BobPalmer/CommunityResourcePack/releases/latest?include_prereleases?style=plastic
-[shield:support-di]: http://img.shields.io/badge/Dang%20It-v0.6.2-blue.svg
-[shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v7.4.7.1-red.svg
-[shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.4.0-orange.svg
-[shield:support-fs]: http://img.shields.io/badge/Firespitter-v7.4.1-red.svg
-[shield:support-ics]: http://img.shields.io/badge/Ioncross%20Crew%20Support-v1.25.0-34c566.svg
-[shield:support-kspi]: http://img.shields.io/badge/KSP%20Interstellar%20Expanded-v1.10.7-c5a79f.svg
-[shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.4.3-50b2bc.svg
-[shield:support-nr]: http://img.shields.io/badge/'Project%20Orion'%20Nuclear%20Pulse%20Engine-v0.3.0.0-3cdc28.svg
-[shield:support-snacks]: http://img.shields.io/badge/Snacks-v1.4.0-a99b13.svg
-[shield:support-ls]: http://img.shields.io/badge/USI%20Life%20Support-v0.5.0.0-green.svg
-[shield:support-bm]: http://img.shields.io/badge/BioMass-v0.9.2.1-green.svg
-[shield:support-df]: http://img.shields.io/badge/DeepFreeze%20Continued-v0.23.0.0-acdadf.svg
+***************************************
+[thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-* "Link to how to get support"
+[image:getsupport]:    https://i.postimg.cc/vHP6zmrw/image.png "get support"  
 
-[ICONS:rel-dropbox]: http://www.dropbox.com/s/yrg2m2y4x2ej01u/Olympic1ARPIcons-v0.10.1.zip
-[ICONS:rel-github]: http://github.com/Olympic1/Icon_Packs_KSP/releases/latest
-[ICONS:rel-spacedock]: http://spacedock.info/mod/15
-[ICONS:rel-curseforge]: http://
-[ICONS:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-*
+[image:ckan]:  https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"  
+[thread:ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/90246-* "CKAN"  
+[image:ckan:sm]: http:// "CKAN (small)"  
 
-[image:rel-dropbox]: http://i60.tinypic.com/70jj43.jpg
-[image:rel-github]: http://i59.tinypic.com/2i11u2d.jpg
-[image:rel-spacedock]: http://i65.tinypic.com/ot0ks9.jpg
-[image:rel-curseforge]:
-[image:rel-ckan]: http://i59.tinypic.com/jidcvk.jpg
+[LINK:kerbas-ad-astra]: https://forum.kerbalspaceprogram.com/index.php?/profile/126593-kerbas_ad_astra/ "Kerbas ad astra"  
+[LINK:olympic1]: http://forum.kerbalspaceprogram.com/index.php?/profile/79730-olympic1/ "Olympic1"  
+[LINK:triggerau]: http://forum.kerbalspaceprogram.com/index.php?/profile/57838-triggerau/ "TriggerAu"  
+[LINK:zer0Kerbal]:     https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zed'K"  
+
+[IMG:hero:0]: https://spacedock.info/content/Olympic1_154/Olympic1s_ARP_Icons/Olympic1s_ARP_Icons-1455807438.953648.png "ARPIcons by Olympic1"  
+[IMG:hero:1]: https:// "Hero 2"  
+
+<!-- zer0Kerbal mods -->
+[thread:arp]: https://forum.kerbalspaceprogram.com/index.php?/topic/54876-* "Alternate Resource Panel"  
+
+[thread:MK]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191525-* "MoarKerbals!"   
+[thread:BIO]: https://forum.kerbalspaceprogram.com/index.php?/topic/191426-* "Biomatic"  
+[thread:B9S]: https://forum.kerbalspaceprogram.com/index.php?/topic/190870-* "B9 Stock Patches"   
+[thread:DST]: https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's Spherical Tanks"  
+[thread:DAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's AeroRadial"  
+[thread:DCB]: https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's CargoBays"  
+[thread:DMF]: https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's Fuselage"  
+[thread:DPD]: https://forum.kerbalspaceprogram.com/index.php?/topic/192184-* "Docking Port Descriptions"
+[thread:FTF]: https://forum.kerbalspaceprogram.com/index.php?/topic/188841-* "Field Training Facility"  
+[thread:FTL]: https://forum.kerbalspaceprogram.com/index.php?/topic/188841-* "Field Training Lab"  
+[thread:KGX]: https://forum.kerbalspaceprogram.com/index.php?/topic/192696-* "KGEx"  
+[thread:MHH]: https://forum.kerbalspaceprogram.com/index.php?/topic/188246-* "More Hitchhikers"  
+[thread:NUK]: https://forum.kerbalspaceprogram.com/index.php?/topic/21466-*  "Nuke Tiny Parts"
+[thread:OHS]: https://forum.kerbalspaceprogram.com/index.php?/topic/192360-* "Oh Scrap!"  
+[thread:PPS]: https://forum.kerbalspaceprogram.com/index.php?/topic/192187-* "Shielded PicoPort"  
+[thread:SC!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstructon!"  
+[thread:SDS]: https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "Stork Delivery System (SDS)"    
+[thread:SDR]: https:// "SimpleDeadly!"  
+[thread:SL!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"  
+[thread:SLF]: https://forum.kerbalspaceprogram.com/index.php?/topic/191526-* "SimpleLife!"  
+[thread:SIL]:  https://forum.kerbalspaceprogram.com/index.php?/topic/193050-* "Stock Inline Lights"  
+[thread:SYD]: https://forum.kerbalspaceprogram.com/index.php?/topic/192360-* "ScrapYard"  
+[thread:TCP]: https://forum.kerbalspaceprogram.com/index.php?/topic/187495-* "Transparent Command Pods"  
+[thread:SILP]: https://forum.kerbalspaceprogram.com/index.php?/topic/193051-* "Stock Inline Lights Patches"
+[thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"  
+[thread:NSSC]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191504-* "Not So SimpleConstructon!"  
+[thread:BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-* "KaboOom!"
+<!--
+this file: GPLv2
+zer0Kerbal-->
